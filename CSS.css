@@ -1,4 +1,4 @@
-#c {
+.c {
   text-align:center;
 }
 .wf-sawarabimincho {
@@ -14,9 +14,7 @@
 #content {
   font-size: 3vw;
 }
-#content{
-    margin: 6vw 6vw 6vw 6vw;
-}
+
 .left {
   text-align:left;
   margin-left:7vw;
